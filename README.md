@@ -1,4 +1,4 @@
-# Hi, I'm Raghav 👋
+# Hey, This is Raghav 🙋🏻‍♂️
 
 I’m a B.Tech student who likes building things with code — especially AI systems that actually *do something* rather than just exist as isolated models.
 
